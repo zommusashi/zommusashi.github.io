@@ -4208,7 +4208,8 @@ color="#0033CC">www</font><font color="#003399">wwwwww</font><font color="#00229
 color="#001199">w</font><font color="#002299">wwww</font><font color="#003399">wwwww</font><font
 color="#0033CC">wwww</font><font color="#0033FF">w</font><font color="#0000FF">wwwwwww</font><font
 color="#007500">gg</font><font color="#0000FF">www</font><font color="#007500">ggg</font><font
-color="#0000FF">ww<span style="color: red;">mangroves</span>ww</font><font color="#0033FF">w</font><font
+color="#0000FF">ww<a href="https://www.reddit.com/r/zombiemud/wiki/areas/mangroves"><span
+style="color: red;">mangroves</span></a>ww</font><font color="#0033FF">w</font><font
 color="#0000FF">wwwww</font><font color="#0033FF">www</font><font color="#0033CC">www</font><font
 color="#0033FF">wwwwwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#003399">wwwwwww</font><font color="#0033CC">ww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwww</font><font
