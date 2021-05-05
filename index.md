@@ -2026,139 +2026,140 @@ color="#007500">gggggg</font><font color="#0000FF">wwwwwww</font><font color="#0
 color="#0033CC">w<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwww</font><font
 color="#0033CC">wwwwwwwww</font><font color="#0033FF">wwwww</font><font color="#0000FF">wwwwwwwwwwww</font><font
 color="#00FF08">ff<span style="color: red;">?</span>f</font><font color="#FFFF00">h</font><font
-color="#7B8600">HHHH</font><font color="#847D84">^^^^^^^^^</font><font color="#7B8600">H</font><font
-color="#FFFF00">h</font><font color="#00FF08">ffff</font><font color="#007500">F</font><font
-color="#00FF08">ffffffffff</font><font color="#0000FF">r</font><font color="#00FF08">ff</font><font
-color="#007500">F</font><font color="#00FF08">ffffffff</font><font color="#847D84">/</font><font
-color="#00FF08">ff</font><font color="#FFFF00">hh</font><font color="#00FF08">f</font><font
-color="#7B8600">HH<span style="color: red;">?</span></font><font color="#847D84">^</font><font
-color="#7B8600">H<span style="color: red;">?</span></font><font color="#FFFF00">h</font><font
-color="#00FF08">fffbbbbbb</font><font color="#FFFF00">ppppppppppp</font><font color="#0000FF">wwwwww</font><font
-color="#0033FF">wwwwwwww</font><font color="#0033CC">wwwwwwww</font><font color="#002299">ww</font><font
-color="#001199">w</font><font color="#002299">w</font><font color="#003399">www</font><font
-color="#0033CC">wwwwwwwwwwwwwww</font><font color="#003399">www</font><font color="#0033CC">wwwwwwwwww</font><font
-color="#003399">ww</font><font color="#0033CC">wwwwwww</font><font color="#0033FF">wwwwwww</font><font
-color="#0000FF">wwww</font><font color="#0033FF">wwwwwwwwwww</font><font color="#0033CC">www</font><font
-color="#0033FF">ww</font><font color="#0000FF">wwwww</font><font color="#001199">w</font><font
-color="#0000FF">wwwww</font><font color="#0033FF">w</font><font color="#0033CC">ww</font><font
-color="#003399">wwww</font><font color="#0033CC">www</font><font color="#003399">www</font><font
-color="#002299">wwwwwwww</font><font color="#001199">wwww</font><font color="#002299">wwwww</font><font
-color="#001199">ww</font><font color="#002299">wwwwwwwww</font><font color="#003399">wwww</font><font
-color="#0033CC">wwww</font><font color="#0033FF">wwww</font><font color="#0000FF">www</font><font
-color="#007500">g</font><font color="#0000FF">w</font><font color="#007500">g</font><font
-color="#0000FF">r</font><font color="#007500">g</font><font color="#0000FF">ww</font><font
-color="#0033FF">www</font><font color="#0000FF">ww</font><font color="#0033FF">w</font><font
-color="#0000FF">www</font><font color="#007500">ggFF</font><font color="#00FF08">fff</font><font
-color="#FFFF00">h</font><font color="#00FF08">fff</font><font color="#007500">FF</font><font
-color="#00FF08">ffbbbb</font><font color="#0000FF">rrr</font><font color="#007500">gg<span
-style="color: #999999;">Mellarnia</span></font><font color="#007500">gggggggggggg</font><font
-color="#00FF08">b</font><font color="#FFFF00">h</font><font color="#00FF08">b</font><font
-color="#7B8600">H</font><font color="#847D84">^</font><font color="#FFFF00">h</font><font
-color="#0000FF">r</font><font color="#00FF08">bbb</font><font color="#FFFF00">pppppppp</font><font
-color="#00FF08">ff</font><font color="#FFFF00">pppppppp</font><font color="#00FF08">fff</font><font
-color="#FFFF00">pppp</font><font color="#847D84">^^</font><font color="#7B8600">H</font><font
-color="#FFFF00">hpppppp</font><font color="#00FF08">fff</font><font color="#FFFF00">p</font><font
-color="#007500">F</font><font color="#00FF08">f</font><font color="#FFFF00">pppppp</font><font
-color="#007500">gg</font><font color="#FFFF00">pp</font><font color="#007500">ggggggggggggggggg</font><font
-color="#0000FF">wwwwwww</font><font color="#0033FF">wwwwwww</font><font color="#0033CC">ww</font><font
-color="#002299">w</font><font color="#003399">wwww</font><font color="#0033CC">wwww</font><font
-color="#0033FF">wwww</font><font color="#0000FF">wwwwwww</font><font color="#007500">ggggggggg</font><font
-color="#00FF08">fff</font><font color="#007500">ggg</font><font color="#0000FF">wwwwwwwww</font><font
-color="#0033FF">wwwwww</font><font color="#0000FF">wwwwwwww</font><font color="#007500">gg</font><font
-color="#0000FF">wwwwwwwwww</font><font color="#0033FF">wwwwww</font><font color="#0033CC">ww<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
+color="#7B8600">HHHH</font><font color="#847D84">^<span style="color: #7b8600;">HH</span>^^<a
+href="https://www.reddit.com/r/zombiemud/wiki/areas/stangtusk"><span style="color: red;">steppes</span></a></font><font
+color="#00FF08">fff</font><font color="#007500">F</font><font color="#00FF08">ffffffffff</font><font
+color="#0000FF">r</font><font color="#00FF08">ff</font><font color="#007500">F</font><font
+color="#00FF08">ffffffff</font><font color="#847D84">/</font><font color="#00FF08">ff</font><font
+color="#FFFF00">hh</font><font color="#00FF08">f</font><font color="#7B8600">HH<span
+style="color: red;">?</span></font><font color="#847D84">^</font><font color="#7B8600">H<span
+style="color: red;">?</span></font><font color="#FFFF00">h</font><font color="#00FF08">fffbbbbbb</font><font
+color="#FFFF00">ppppppppppp</font><font color="#0000FF">wwwwww</font><font color="#0033FF">wwwwwwww</font><font
+color="#0033CC">wwwwwwww</font><font color="#002299">ww</font><font color="#001199">w</font><font
+color="#002299">w</font><font color="#003399">www</font><font color="#0033CC">wwwwwwwwwwwwwww</font><font
+color="#003399">www</font><font color="#0033CC">wwwwwwwwww</font><font color="#003399">ww</font><font
+color="#0033CC">wwwwwww</font><font color="#0033FF">wwwwwww</font><font color="#0000FF">wwww</font><font
+color="#0033FF">wwwwwwwwwww</font><font color="#0033CC">www</font><font color="#0033FF">ww</font><font
+color="#0000FF">wwwww</font><font color="#001199">w</font><font color="#0000FF">wwwww</font><font
+color="#0033FF">w</font><font color="#0033CC">ww</font><font color="#003399">wwww</font><font
+color="#0033CC">www</font><font color="#003399">www</font><font color="#002299">wwwwwwww</font><font
+color="#001199">wwww</font><font color="#002299">wwwww</font><font color="#001199">ww</font><font
+color="#002299">wwwwwwwww</font><font color="#003399">wwww</font><font color="#0033CC">wwww</font><font
+color="#0033FF">wwww</font><font color="#0000FF">www</font><font color="#007500">g</font><font
+color="#0000FF">w</font><font color="#007500">g</font><font color="#0000FF">r</font><font
+color="#007500">g</font><font color="#0000FF">ww</font><font color="#0033FF">www</font><font
+color="#0000FF">ww</font><font color="#0033FF">w</font><font color="#0000FF">www</font><font
+color="#007500">ggFF</font><font color="#00FF08">fff</font><font color="#FFFF00">h</font><font
+color="#00FF08">fff</font><font color="#007500">FF</font><font color="#00FF08">ffbbbb</font><font
+color="#0000FF">rrr</font><font color="#007500">gg<span style="color: #999999;">Mellarnia</span></font><font
+color="#007500">gggggggggggg</font><font color="#00FF08">b</font><font color="#FFFF00">h</font><font
+color="#00FF08">b</font><font color="#7B8600">H</font><font color="#847D84">^</font><font
+color="#FFFF00">h</font><font color="#0000FF">r</font><font color="#00FF08">bbb</font><font
+color="#FFFF00">pppppppp</font><font color="#00FF08">ff</font><font color="#FFFF00">pppppppp</font><font
+color="#00FF08">fff</font><font color="#FFFF00">pppp</font><font color="#847D84">^^</font><font
+color="#7B8600">H</font><font color="#FFFF00">hpppppp</font><font color="#00FF08">fff</font><font
+color="#FFFF00">p</font><font color="#007500">F</font><font color="#00FF08">f</font><font
+color="#FFFF00">pppppp</font><font color="#007500">gg</font><font color="#FFFF00">pp</font><font
+color="#007500">ggggggggggggggggg</font><font color="#0000FF">wwwwwww</font><font
+color="#0033FF">wwwwwww</font><font color="#0033CC">ww</font><font color="#002299">w</font><font
+color="#003399">wwww</font><font color="#0033CC">wwww</font><font color="#0033FF">wwww</font><font
+color="#0000FF">wwwwwww</font><font color="#007500">ggggggggg</font><font color="#00FF08">fff</font><font
+color="#007500">ggg</font><font color="#0000FF">wwwwwwwww</font><font color="#0033FF">wwwwww</font><font
+color="#0000FF">wwwwwwww</font><font color="#007500">gg</font><font color="#0000FF">wwwwwwwwww</font><font
+color="#0033FF">wwwwww</font><font color="#0033CC">ww<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#003399">wwwwwww</font><font color="#0033CC">wwwwwwwww</font><font color="#0033FF">wwwwwww</font><font
 color="#0000FF">wwwwwwwwww</font><font color="#00FF08">fff</font><font color="#FFFF00">h</font><font
-color="#7B8600">H</font><font color="#847D84">^^^^^^^^^^^^^</font><font color="#7B8600">H</font><font
-color="#FFFF00">h</font><font color="#00FF08">fff</font><font color="#007500">FFFFF</font><font
-color="#00FF08">ffffff</font><font color="#0000FF">r</font><font color="#00FF08">fffffffffff</font><a
-href="https://www.reddit.com/r/zombiemud/wiki/areas/ravenloft"><span style="color: red;">ravenloft</span></a><font
-color="#847D84">^^^^</font><font color="#7B8600">H</font><font color="#FFFF00">hh</font><font
-color="#00FF08">fffbbb</font><font color="#FFFF00">pppppppppppp</font><font color="#0000FF">wwww</font><font
-color="#0033FF">wwwwwww</font><font color="#0033CC">wwwwwwwww</font><font color="#003399">w</font><font
-color="#002299">w</font><font color="#001199">ww</font><font color="#002299">wwww</font><font
-color="#003399">w</font><font color="#0033CC">wwwwwwwwwwwww</font><font color="#003399">w</font><font
-color="#0033CC">wwwww</font><font color="#003399">w</font><font color="#0033CC">wwwwwwww</font><font
-color="#003399">wwwww</font><font color="#0033CC">wwwwwww</font><font color="#0033FF">wwww</font><font
-color="#0000FF">ww</font><font color="#0033FF">wwwwwwwwwwwww</font><font color="#0033CC">www</font><font
-color="#0033FF">w</font><font color="#0000FF">wwwwwwwwwwww</font><font color="#0033FF">w</font><font
-color="#0033CC">www</font><font color="#003399">w</font><font color="#0033CC">www</font><font
-color="#0033FF">w</font><font color="#0033CC">ww</font><font color="#003399">wwww</font><font
-color="#002299">wwwwwwww</font><font color="#001199">www</font><font color="#002299">wwww</font><font
-color="#001199">ww</font><font color="#002299">wwwwwwwwwww</font><font color="#003399">wwww</font><font
-color="#0033CC">ww</font><font color="#0033FF">ww</font><font color="#0000FF">www</font><font
+color="#7B8600">H</font><font color="#847D84">^^^^^^^<span style="color: #7b8600;">H</span><span
+style="color: red;">?</span>^^^^</font><font color="#7B8600">H</font><font color="#FFFF00">h</font><font
+color="#00FF08">fff</font><font color="#007500">FFFFF</font><font color="#00FF08">ffffff</font><font
+color="#0000FF">r</font><font color="#00FF08">fffffffffff</font><a href="https://www.reddit.com/r/zombiemud/wiki/areas/ravenloft"><span
+style="color: red;">ravenloft</span></a><font color="#847D84">^^^^</font><font color="#7B8600">H</font><font
+color="#FFFF00">hh</font><font color="#00FF08">fffbbb</font><font color="#FFFF00">pppppppppppp</font><font
+color="#0000FF">wwww</font><font color="#0033FF">wwwwwww</font><font color="#0033CC">wwwwwwwww</font><font
+color="#003399">w</font><font color="#002299">w</font><font color="#001199">ww</font><font
+color="#002299">wwww</font><font color="#003399">w</font><font color="#0033CC">wwwwwwwwwwwww</font><font
+color="#003399">w</font><font color="#0033CC">wwwww</font><font color="#003399">w</font><font
+color="#0033CC">wwwwwwww</font><font color="#003399">wwwww</font><font color="#0033CC">wwwwwww</font><font
+color="#0033FF">wwww</font><font color="#0000FF">ww</font><font color="#0033FF">wwwwwwwwwwwww</font><font
+color="#0033CC">www</font><font color="#0033FF">w</font><font color="#0000FF">wwwwwwwwwwww</font><font
+color="#0033FF">w</font><font color="#0033CC">www</font><font color="#003399">w</font><font
+color="#0033CC">www</font><font color="#0033FF">w</font><font color="#0033CC">ww</font><font
+color="#003399">wwww</font><font color="#002299">wwwwwwww</font><font color="#001199">www</font><font
+color="#002299">wwww</font><font color="#001199">ww</font><font color="#002299">wwwwwwwwwww</font><font
+color="#003399">wwww</font><font color="#0033CC">ww</font><font color="#0033FF">ww</font><font
+color="#0000FF">www</font><font color="#007500">gg</font><font color="#0000FF">r</font><font
 color="#007500">gg</font><font color="#0000FF">r</font><font color="#007500">gg</font><font
-color="#0000FF">r</font><font color="#007500">gg</font><font color="#0000FF">www</font><font
-color="#0033FF">www</font><font color="#0000FF">wwww</font><font color="#007500">ggF</font><font
-color="#00FF08">f</font><font color="#007500">F</font><font color="#00FF08">ff</font><font
-color="#007500">FFF</font><font color="#00FF08">f</font><font color="#007500">F</font><font
-color="#00FF08">fffffbbbbb</font><font color="#0000FF">r</font><font color="#007500">gggggggggggggggggggggggg</font><font
-color="#00FF08">bb</font><font color="#FFFF00">h</font><font color="#00FF08">b</font><font
-color="#0000FF">r</font><font color="#00FF08">b</font><font color="#FFFF00">ppppppppp</font><font
-color="#00FF08">fff</font><font color="#FFFF00">ppppppppp</font><font color="#00FF08">f</font><font
-color="#FFFF00">p</font><font color="#00FF08">f</font><font color="#FFFF00">ppph</font><font
-color="#847D84">^</font><font color="#FFFF00">hh</font><font color="#7B8600">H</font><font
-color="#FFFF00">ppppppp</font><font color="#007500">F</font><font color="#00FF08">f</font><font
-color="#007500">F</font><font color="#00FF08">ff</font><font color="#FFFF00">pppppppppppp</font><font
-color="#007500">gggggggggggggg</font><font color="#0000FF">wwww</font><font color="#0033FF">wwwwwww</font><font
-color="#0033CC">wwww</font><font color="#003399">wwwwwwww</font><font color="#0033CC">ww</font><font
-color="#0033FF">wwwwwwww</font><font color="#0000FF">wwwwww</font><font color="#007500">ggg</font><font
-color="#00FF08">fff</font><font color="#007500">ggggggggg</font><font color="#0000FF">wwwww</font><font
-color="#0033FF">wwwww</font><font color="#0000FF">wwwwwwwwwwww</font><font color="#007500">g</font><font
-color="#0000FF">wwwwwwwww</font><font color="#0033FF">wwww</font><font color="#0033CC">w</font><font
+color="#0000FF">www</font><font color="#0033FF">www</font><font color="#0000FF">wwww</font><font
+color="#007500">ggF</font><font color="#00FF08">f</font><font color="#007500">F</font><font
+color="#00FF08">ff</font><font color="#007500">FFF</font><font color="#00FF08">f</font><font
+color="#007500">F</font><font color="#00FF08">fffffbbbbb</font><font color="#0000FF">r</font><font
+color="#007500">gggggggggggggggggggggggg</font><font color="#00FF08">bb</font><font
+color="#FFFF00">h</font><font color="#00FF08">b</font><font color="#0000FF">r</font><font
+color="#00FF08">b</font><font color="#FFFF00">ppppppppp</font><font color="#00FF08">fff</font><font
+color="#FFFF00">ppppppppp</font><font color="#00FF08">f</font><font color="#FFFF00">p</font><font
+color="#00FF08">f</font><font color="#FFFF00">ppph</font><font color="#847D84">^</font><font
+color="#FFFF00">hh</font><font color="#7B8600">H</font><font color="#FFFF00">ppppppp</font><font
+color="#007500">F</font><font color="#00FF08">f</font><font color="#007500">F</font><font
+color="#00FF08">ff</font><font color="#FFFF00">pppppppppppp</font><font color="#007500">gggggggggggggg</font><font
+color="#0000FF">wwww</font><font color="#0033FF">wwwwwww</font><font color="#0033CC">wwww</font><font
+color="#003399">wwwwwwww</font><font color="#0033CC">ww</font><font color="#0033FF">wwwwwwww</font><font
+color="#0000FF">wwwwww</font><font color="#007500">ggg</font><font color="#00FF08">fff</font><font
+color="#007500">ggggggggg</font><font color="#0000FF">wwwww</font><font color="#0033FF">wwwww</font><font
+color="#0000FF">wwwwwwwwwwww</font><font color="#007500">g</font><font color="#0000FF">wwwwwwwww</font><font
+color="#0033FF">wwww</font><font color="#0033CC">w</font><font color="#0033FF">ww</font><font
+color="#0033CC">w<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwww</font><font
+color="#0033CC">wwwwwwww</font><font color="#0033FF">wwww</font><font color="#0000FF">wwwwwwwwwwww</font><font
+color="#00FF08">ffff</font><font color="#FFFF00">h</font><font color="#7B8600">H</font><font
+color="#847D84">^^^^^^^^^^^^</font><font color="#7B8600">HH</font><font color="#FFFF00">h</font><font
+color="#00FF08">ff</font><font color="#007500">FFFFFFF</font><font color="#00FF08">ffffff</font><font
+color="#0000FF">r</font><font color="#00FF08">fffffffff</font><font color="#847D84">/</font><font
+color="#00FF08">ff</font><font color="#FFFF00">hh</font><font color="#7B8600">HHH</font><font
+color="#847D84">^^^^^^</font><font color="#7B8600">H</font><font color="#FFFF00">hh</font><font
+color="#00FF08">ffffbbb</font><font color="#FFFF00">pppppppp<span style="color: red;">T</span>pp</font><font
+color="#0000FF">www</font><font color="#0033FF">wwwwwwwww</font><font color="#0033CC">wwwww</font><font
+color="#003399">wwwww</font><font color="#002299">wwww</font><font color="#001199">ww</font><font
+color="#002299">wwwwwww</font><font color="#003399">wwww</font><font color="#0033CC">wwwwwwwwww</font><font
+color="#003399">ww</font><font color="#0033CC">wwwwwwww</font><font color="#003399">wwwww</font><font
+color="#0033CC">www</font><font color="#0033FF">wwwwww</font><font color="#0000FF">w</font><font
+color="#0033FF">wwwwwwwwwwwwww</font><font color="#0033CC">www</font><font color="#0033FF">www</font><font
+color="#0000FF">wwwwwwwwww</font><font color="#0033FF">ww</font><font color="#0033CC">w</font><font
+color="#0033FF">w</font><font color="#0033CC">ww</font><font color="#0033FF">wwwww</font><font
+color="#0033CC">www</font><font color="#003399">www</font><font color="#002299">wwwwwww</font><font
+color="#001199">www</font><font color="#002299">ww</font><font color="#001199">wwww</font><font
+color="#002299">wwwwwwwwww</font><font color="#003399">www</font><font color="#0033CC">www</font><font
+color="#0033FF">w</font><font color="#0000FF">www</font><font color="#007500">gg</font><font
+color="#00FF08">f</font><font color="#007500">g</font><font color="#0000FF">r</font><font
+color="#00FF08">b</font><font color="#007500">g</font><font color="#0000FF">r</font><font
+color="#007500">g</font><font color="#0000FF">wwww</font><font color="#0033FF">w</font><font
+color="#0000FF">w</font><font color="#0033FF">w</font><font color="#0000FF">ww</font><font
+color="#007500">gggFgFF</font><font color="#00FF08">f</font><font color="#007500">ggFFFF</font><font
+color="#00FF08">bbbbbfbb</font><font color="#007500">gggggggggggg</font><font color="#00FF08">bb</font><font
+color="#007500">gggggggggggg</font><font color="#00FF08">bbbb</font><font color="#FFFF00">p</font><font
+color="#0000FF">r</font><font color="#00FF08">b</font><font color="#FFFF00">pppppp</font><font
+color="#00FF08">fffff</font><font color="#FFFF00">pppppppp</font><font color="#00FF08">ff</font><font
+color="#FFFF00">pppphhh</font><font color="#7B8600">H</font><font color="#847D84">^</font><font
+color="#FFFF00">hhhpppppp</font><font color="#00FF08">ffff</font><font color="#FFFF00">ppppppppppppppp</font><font
+color="#007500">ggggggggggg</font><font color="#0000FF">wwwww</font><font color="#0033FF">wwwwwwwwwww</font><font
+color="#0033CC">wwwwwwwwww</font><font color="#0033FF">wwww</font><font color="#0000FF">wwwwwwww</font><font
+color="#007500">gg</font><font color="#0000FF">w</font><font color="#007500">gggggggg</font><font
+color="#0000FF">wwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwww</font><font
+color="#0000FF">wwwwwwwwww</font><font color="#0033FF">wwwwwww</font><font color="#0033CC">www</font><font
 color="#0033FF">ww</font><font color="#0033CC">w<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
-color="#003399">wwwwwww</font><font color="#0033CC">wwwwwwww</font><font color="#0033FF">wwww</font><font
-color="#0000FF">wwwwwwwwwwww</font><font color="#00FF08">ffff</font><font color="#FFFF00">h</font><font
-color="#7B8600">H</font><font color="#847D84">^^^^^^<a href="https://www.reddit.com/r/zombiemud/wiki/areas/shalash_temple"><span
-style="color: red;">temple</span></a></font><font color="#7B8600">HH</font><font
-color="#FFFF00">h</font><font color="#00FF08">ff</font><font color="#007500">FFFFFFF</font><font
-color="#00FF08">ffffff</font><font color="#0000FF">r</font><font color="#00FF08">fffffffff</font><font
-color="#847D84">/</font><font color="#00FF08">ff</font><font color="#FFFF00">hh</font><font
-color="#7B8600">HHH</font><font color="#847D84">^^^^^^</font><font color="#7B8600">H</font><font
-color="#FFFF00">hh</font><font color="#00FF08">ffffbbb</font><font color="#FFFF00">pppppppp<span
-style="color: red;">T</span>pp</font><font color="#0000FF">www</font><font color="#0033FF">wwwwwwwww</font><font
-color="#0033CC">wwwww</font><font color="#003399">wwwww</font><font color="#002299">wwww</font><font
+color="#003399">wwwwwwww</font><font color="#0033CC">ww</font><font color="#003399">w</font><font
+color="#0033CC">wwww</font><font color="#0033FF">wwwwww</font><font color="#0000FF">wwwwwwwwww</font><font
+color="#00FF08">ff</font><font color="#FFFF00">hh</font><font color="#7B8600">H</font><font
+color="#847D84">^^</font><font color="#7B8600">HHHH<span style="color: red;">?</span></font><font
+color="#847D84">^^^^^</font><font color="#7B8600">H</font><font color="#FFFF00">h</font><font
+color="#7B8600">H</font><font color="#FFFF00">h</font><font color="#00FF08">ff</font><font
+color="#007500">FFFF</font><font color="#00FF08">ffffffffff</font><font color="#0000FF">r</font><font
+color="#00FF08">fffffff</font><font color="#847D84">/</font><font color="#00FF08">fffff</font><font
+color="#FFFF00">hh</font><font color="#7B8600">HHHH</font><font color="#FFFF00">hhh</font><font
+color="#7B8600">H</font><font color="#FFFF00">h</font><font color="#00FF08">ffffbbb</font><font
+color="#FFFF00">ppppppppppppp</font><font color="#0000FF">ww</font><font color="#0033FF">wwwwww</font><font
+color="#0033CC">wwwwwwwwww</font><font color="#003399">w</font><font color="#002299">wwww</font><font
 color="#001199">ww</font><font color="#002299">wwwwwww</font><font color="#003399">wwww</font><font
-color="#0033CC">wwwwwwwwww</font><font color="#003399">ww</font><font color="#0033CC">wwwwwwww</font><font
-color="#003399">wwwww</font><font color="#0033CC">www</font><font color="#0033FF">wwwwww</font><font
-color="#0000FF">w</font><font color="#0033FF">wwwwwwwwwwwwww</font><font color="#0033CC">www</font><font
-color="#0033FF">www</font><font color="#0000FF">wwwwwwwwww</font><font color="#0033FF">ww</font><font
-color="#0033CC">w</font><font color="#0033FF">w</font><font color="#0033CC">ww</font><font
-color="#0033FF">wwwww</font><font color="#0033CC">www</font><font color="#003399">www</font><font
-color="#002299">wwwwwww</font><font color="#001199">www</font><font color="#002299">ww</font><font
-color="#001199">wwww</font><font color="#002299">wwwwwwwwww</font><font color="#003399">www</font><font
-color="#0033CC">www</font><font color="#0033FF">w</font><font color="#0000FF">www</font><font
-color="#007500">gg</font><font color="#00FF08">f</font><font color="#007500">g</font><font
-color="#0000FF">r</font><font color="#00FF08">b</font><font color="#007500">g</font><font
-color="#0000FF">r</font><font color="#007500">g</font><font color="#0000FF">wwww</font><font
-color="#0033FF">w</font><font color="#0000FF">w</font><font color="#0033FF">w</font><font
-color="#0000FF">ww</font><font color="#007500">gggFgFF</font><font color="#00FF08">f</font><font
-color="#007500">ggFFFF</font><font color="#00FF08">bbbbbfbb</font><font color="#007500">gggggggggggg</font><font
-color="#00FF08">bb</font><font color="#007500">gggggggggggg</font><font color="#00FF08">bbbb</font><font
-color="#FFFF00">p</font><font color="#0000FF">r</font><font color="#00FF08">b</font><font
-color="#FFFF00">pppppp</font><font color="#00FF08">fffff</font><font color="#FFFF00">pppppppp</font><font
-color="#00FF08">ff</font><font color="#FFFF00">pppphhh</font><font color="#7B8600">H</font><font
-color="#847D84">^</font><font color="#FFFF00">hhhpppppp</font><font color="#00FF08">ffff</font><font
-color="#FFFF00">ppppppppppppppp</font><font color="#007500">ggggggggggg</font><font
-color="#0000FF">wwwww</font><font color="#0033FF">wwwwwwwwwww</font><font color="#0033CC">wwwwwwwwww</font><font
-color="#0033FF">wwww</font><font color="#0000FF">wwwwwwww</font><font color="#007500">gg</font><font
-color="#0000FF">w</font><font color="#007500">gggggggg</font><font color="#0000FF">wwwwwwww</font><font
-color="#0033FF">wwwwwwwwwwwwww</font><font color="#0000FF">wwwwwwwwww</font><font
-color="#0033FF">wwwwwww</font><font color="#0033CC">www</font><font color="#0033FF">ww</font><font
-color="#0033CC">w<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwwww</font><font
-color="#0033CC">ww</font><font color="#003399">w</font><font color="#0033CC">wwww</font><font
-color="#0033FF">wwwwww</font><font color="#0000FF">wwwwwwwwww</font><font color="#00FF08">ff</font><font
-color="#FFFF00">hh</font><font color="#7B8600">H</font><font color="#847D84">^^</font><font
-color="#7B8600">HHHH<span style="color: red;">?</span></font><font color="#847D84">^^^^^</font><font
-color="#7B8600">H</font><font color="#FFFF00">h</font><font color="#7B8600">H</font><font
-color="#FFFF00">h</font><font color="#00FF08">ff</font><font color="#007500">FFFF</font><font
-color="#00FF08">ffffffffff</font><font color="#0000FF">r</font><font color="#00FF08">fffffff</font><font
-color="#847D84">/</font><font color="#00FF08">fffff</font><font color="#FFFF00">hh</font><font
-color="#7B8600">HHHH</font><font color="#FFFF00">hhh</font><font color="#7B8600">H</font><font
-color="#FFFF00">h</font><font color="#00FF08">ffffbbb</font><font color="#FFFF00">ppppppppppppp</font><font
-color="#0000FF">ww</font><font color="#0033FF">wwwwww</font><font color="#0033CC">wwwwwwwwww</font><font
-color="#003399">w</font><font color="#002299">wwww</font><font color="#001199">ww</font><font
-color="#002299">wwwwwww</font><font color="#003399">wwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwww</font><font
-color="#003399">wwwww</font><font color="#0033CC">wwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwww</font><font
+color="#0033CC">wwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwww</font><font
+color="#0033CC">wwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwww</font><font
 color="#0033CC">w</font><font color="#0033FF">wwwwwww</font><font color="#0000FF">wwww</font><font
 color="#0033FF">wwww</font><font color="#0000FF">w</font><font color="#0033FF">wwwww</font><font
 color="#0000FF">www</font><font color="#0033FF">www</font><font color="#0033CC">w</font><font
@@ -2187,40 +2188,39 @@ color="#0033FF">w</font><font color="#0033CC">w<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwww
 color="#003399">wwwwwwwwwww</font><font color="#0033CC">wwwww</font><font color="#0033FF">wwwwww</font><font
 color="#0000FF">wwwwwwwwww</font><font color="#00FF08">ff</font><font color="#FFFF00">h</font><font
 color="#7B8600">H</font><font color="#847D84">^</font><font color="#7B8600"><span
-style="color: red;">?</span>H</font><font color="#FFFF00">hhhhh</font><font color="#7B8600">HH</font><font
-color="#847D84">^^</font><font color="#7B8600">H</font><font color="#FFFF00">hhh</font><font
-color="#00FF08">ff</font><font color="#007500">FFFF</font><font color="#00FF08">ff</font><font
-color="#0000FF">rrr</font><font color="#00FF08">ffff</font><font color="#0000FF">rr</font><font
-color="#00FF08">fffffff</font><font color="#847D84">/</font><font color="#00FF08">ffffffff</font><font
-color="#FFFF00">hh</font><font color="#00FF08">fffff</font><font color="#FFFF00">h</font><font
-color="#00FF08">fffffbbbbb</font><font color="#FFFF00">ppppp</font><font color="#0000FF">w</font><font
-color="#FFFF00">pppp</font><font color="#0000FF">ww</font><font color="#0033FF">wwwwwwwwwww</font><font
-color="#0033CC">wwww</font><font color="#003399">wwww</font><font color="#002299">wwww</font><font
-color="#001199">w</font><font color="#002299">wwwwwwwwww</font><font color="#003399">wwwww</font><font
-color="#0033CC">wwww</font><font color="#003399">wwwww</font><font color="#0033CC">wwwww</font><font
-color="#003399">wwwwww</font><font color="#0033CC">wwwwwwwwwww</font><font color="#0033FF">wwwwwwwwwww</font><font
-color="#0033CC">wwww</font><font color="#0033FF">ww</font><font color="#0033CC">w</font><font
-color="#0033FF">wwwwwwwwwwwwwww</font><font color="#0000FF">w</font><font color="#0033FF">w</font><font
-color="#0000FF">ww</font><font color="#0033FF">w</font><font color="#0000FF">ww</font><font
-color="#007500">g</font><font color="#0000FF">w</font><font color="#0033FF">ww</font><font
-color="#0033CC">wwww</font><font color="#003399">www</font><font color="#002299">wwwwwww</font><font
-color="#001199">ww</font><font color="#002299">www</font><font color="#001199">wwwww</font><font
-color="#002299">wwwwww</font><font color="#003399">ww</font><font color="#000099">w</font><font
-color="#003399">w</font><font color="#0033CC">www</font><font color="#0033FF">ww</font><font
-color="#0000FF">www</font><font color="#007500">gg</font><font color="#0000FF">w</font><font
-color="#007500">g</font><font color="#0000FF">r</font><font color="#00FF08">bf</font><font
-color="#007500">gg</font><font color="#0000FF">www</font><font color="#0033FF">www</font><font
-color="#0000FF">wwwww</font><font color="#007500">gggg</font><font color="#0000FF">w</font><font
-color="#007500">g</font><font color="#0000FF">w</font><font color="#007500">g</font><font
-color="#00FF08">f</font><font color="#007500">F</font><font color="#00FF08">bf</font><font
-color="#007500">gggg</font><font color="#00FF08">bb</font><font color="#007500">ggggggggggggggggggggg</font><font
-color="#00FF08">bbbbfffbbbbb</font><font color="#FFFF00">p</font><font color="#0000FF">r</font><font
-color="#FFFF00">pppppp</font><font color="#00FF08">bb</font><font color="#FFFF00">p</font><font
-color="#00FF08">b</font><font color="#FFFF00">ppppppppp</font><font color="#00FF08">f</font><font
-color="#FFFF00">ppppphhh</font><font color="#7B8600">H</font><font color="#847D84">^</font><font
-color="#FFFF00">hhhpppppppppppppppppp</font><font color="#00FF08">bbbfffffffbb</font><font
-color="#007500">gggggg</font><font color="#0000FF">wwwww</font><font color="#0033FF">w</font><font
-color="#0000FF">w</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwwww</font><font
+style="color: red;">?</span>H</font><font color="#FFFF00">hhhhh<span style="color: red;">temple</span></font><font
+color="#FFFF00">hh</font><font color="#00FF08">ff</font><font color="#007500">FFFF</font><font
+color="#00FF08">ff</font><font color="#0000FF">rrr</font><font color="#00FF08">ffff</font><font
+color="#0000FF">rr</font><font color="#00FF08">fffffff</font><font color="#847D84">/</font><font
+color="#00FF08">ffffffff</font><font color="#FFFF00">hh</font><font color="#00FF08">fffff</font><font
+color="#FFFF00">h</font><font color="#00FF08">fffffbbbbb</font><font color="#FFFF00">ppppp</font><font
+color="#0000FF">w</font><font color="#FFFF00">pppp</font><font color="#0000FF">ww</font><font
+color="#0033FF">wwwwwwwwwww</font><font color="#0033CC">wwww</font><font color="#003399">wwww</font><font
+color="#002299">wwww</font><font color="#001199">w</font><font color="#002299">wwwwwwwwww</font><font
+color="#003399">wwwww</font><font color="#0033CC">wwww</font><font color="#003399">wwwww</font><font
+color="#0033CC">wwwww</font><font color="#003399">wwwwww</font><font color="#0033CC">wwwwwwwwwww</font><font
+color="#0033FF">wwwwwwwwwww</font><font color="#0033CC">wwww</font><font color="#0033FF">ww</font><font
+color="#0033CC">w</font><font color="#0033FF">wwwwwwwwwwwwwww</font><font color="#0000FF">w</font><font
+color="#0033FF">w</font><font color="#0000FF">ww</font><font color="#0033FF">w</font><font
+color="#0000FF">ww</font><font color="#007500">g</font><font color="#0000FF">w</font><font
+color="#0033FF">ww</font><font color="#0033CC">wwww</font><font color="#003399">www</font><font
+color="#002299">wwwwwww</font><font color="#001199">ww</font><font color="#002299">www</font><font
+color="#001199">wwwww</font><font color="#002299">wwwwww</font><font color="#003399">ww</font><font
+color="#000099">w</font><font color="#003399">w</font><font color="#0033CC">www</font><font
+color="#0033FF">ww</font><font color="#0000FF">www</font><font color="#007500">gg</font><font
+color="#0000FF">w</font><font color="#007500">g</font><font color="#0000FF">r</font><font
+color="#00FF08">bf</font><font color="#007500">gg</font><font color="#0000FF">www</font><font
+color="#0033FF">www</font><font color="#0000FF">wwwww</font><font color="#007500">gggg</font><font
+color="#0000FF">w</font><font color="#007500">g</font><font color="#0000FF">w</font><font
+color="#007500">g</font><font color="#00FF08">f</font><font color="#007500">F</font><font
+color="#00FF08">bf</font><font color="#007500">gggg</font><font color="#00FF08">bb</font><font
+color="#007500">ggggggggggggggggggggg</font><font color="#00FF08">bbbbfffbbbbb</font><font
+color="#FFFF00">p</font><font color="#0000FF">r</font><font color="#FFFF00">pppppp</font><font
+color="#00FF08">bb</font><font color="#FFFF00">p</font><font color="#00FF08">b</font><font
+color="#FFFF00">ppppppppp</font><font color="#00FF08">f</font><font color="#FFFF00">ppppphhh</font><font
+color="#7B8600">H</font><font color="#847D84">^</font><font color="#FFFF00">hhhpppppppppppppppppp</font><font
+color="#00FF08">bbbfffffffbb</font><font color="#007500">gggggg</font><font color="#0000FF">wwwww</font><font
+color="#0033FF">w</font><font color="#0000FF">w</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#0000FF">wwwwwwwwwwwwww</font><font color="#007500">ggg</font><font color="#0000FF">wwwwwwwwwwwww</font><font
 color="#0033FF">wwwwwwwwwwwwwwwwwwwwwwww</font><font color="#0033CC">wwwwwwwww<br>wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#003399">wwwwwwww</font><font color="#0033CC">wwwwww</font><font color="#0033FF">wwwwww</font><span
@@ -2494,25 +2494,26 @@ color="#007500">ggg</font><font color="#0000FF">wwww</font><font color="#0033FF"
 color="#0033CC">www</font><font color="#003399">www</font><font color="#002299">wwwwwww</font><font
 color="#001199">wwww</font><font color="#002299">wwwwww</font><font color="#003399">www</font><font
 color="#0033CC">ww</font><font color="#0033FF">www</font><font color="#0000FF">ww</font><font
-color="#007500">ggg</font><font color="#00FF08">bf<span style="color: red;">aeuri</span></font><font
-color="#0000FF">ww</font><font color="#0033FF">wwww</font><font color="#003399">ww</font><font
-color="#001199">w</font><font color="#000099">w</font><font color="#001199">w</font><font
-color="#003399">wwww</font><font color="#0033CC">www</font><font color="#0033FF">w</font><font
-color="#0000FF">www</font><font color="#007500">gggggggggggggggggggggg</font><font
-color="#FFFF00">pppp</font><font color="#00FF08">fffffffffffff</font><font color="#007500">FF</font><font
-color="#00FF08">ffffbffbbb</font><font color="#FFFF00">pppp</font><font color="#00FF08">b</font><font
-color="#FFFF00">pppppp</font><font color="#00FF08">bb</font><font color="#FFFF00">ppppppddhh</font><font
-color="#00FF08">b</font><font color="#FFFF00">h</font><font color="#7B8600">H</font><font
-color="#847D84">^^</font><font color="#7B8600">H</font><font color="#FFFF00">hhhpppppppp</font><font
-color="#0000FF">r</font><font color="#007500">g</font><font color="#00FF08">bbfffffff<span
-style="color: red;">#</span></font><font color="#007500">F</font><font color="#00FF08">fff</font><font
-color="#007500">F</font><font color="#00FF08">fffff</font><font color="#007500">gg</font><font
-color="#00FF08">bbb</font><font color="#007500">g</font><font color="#0000FF">wwww</font><font
-color="#0033FF">wwwww</font><font color="#0033CC">wwwwwwwwww</font><font color="#003399">w</font><font
-color="#0033FF">wwwwwww</font><font color="#003399">ww</font><font color="#0033CC">www</font><font
-color="#003399">ww</font><font color="#0033CC">wwwwww</font><font color="#0033FF">wwwwwwwwwwwwwww</font><font
-color="#0033CC">w</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwww</font><font
-color="#0033CC">wwwwwww</font><font color="#003399">w<br></font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
+color="#007500">ggg</font><font color="#00FF08">bf<a href="https://www.reddit.com/r/zombiemud/wiki/areas/aeuri_sanctum"><span
+style="color: red;">aeuri</span></a></font><font color="#0000FF">ww</font><font
+color="#0033FF">wwww</font><font color="#003399">ww</font><font color="#001199">w</font><font
+color="#000099">w</font><font color="#001199">w</font><font color="#003399">wwww</font><font
+color="#0033CC">www</font><font color="#0033FF">w</font><font color="#0000FF">www</font><font
+color="#007500">gggggggggggggggggggggg</font><font color="#FFFF00">pppp</font><font
+color="#00FF08">fffffffffffff</font><font color="#007500">FF</font><font color="#00FF08">ffffbffbbb</font><font
+color="#FFFF00">pppp</font><font color="#00FF08">b</font><font color="#FFFF00">pppppp</font><font
+color="#00FF08">bb</font><font color="#FFFF00">ppppppddhh</font><font color="#00FF08">b</font><font
+color="#FFFF00">h</font><font color="#7B8600">H</font><font color="#847D84">^^</font><font
+color="#7B8600">H</font><font color="#FFFF00">hhhpppppppp</font><font color="#0000FF">r</font><font
+color="#007500">g</font><font color="#00FF08">bbfffffff<span style="color: red;">#</span></font><font
+color="#007500">F</font><font color="#00FF08">fff</font><font color="#007500">F</font><font
+color="#00FF08">fffff</font><font color="#007500">gg</font><font color="#00FF08">bbb</font><font
+color="#007500">g</font><font color="#0000FF">wwww</font><font color="#0033FF">wwwww</font><font
+color="#0033CC">wwwwwwwwww</font><font color="#003399">w</font><font color="#0033FF">wwwwwww</font><font
+color="#003399">ww</font><font color="#0033CC">www</font><font color="#003399">ww</font><font
+color="#0033CC">wwwwww</font><font color="#0033FF">wwwwwwwwwwwwwww</font><font color="#0033CC">w</font><font
+color="#0033FF">wwwwwwwwwwwwwwwwwwwwww</font><font color="#0033CC">wwwwwww</font><font
+color="#003399">w<br></font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#003399">wwww</font><font color="#0033CC">wwwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwww</font><font
 color="#0000FF">wwww</font><font color="#007500">j</font><font color="#847D84">^^</font><font
 color="#FF00FF">z</font><font color="#7B007B">ZZZZ</font><font color="#FF00FF">zz</font><font
@@ -2538,21 +2539,21 @@ color="#0000FF">w</font><font color="#0033FF">ww</font><font color="#0033CC">www
 color="#003399">ww</font><font color="#001199">ww</font><font color="#003399">ww</font><font
 color="#0033CC">wwwww</font><font color="#0033FF">ww</font><font color="#0000FF">www</font><font
 color="#007500">ggggggggggggggggggg</font><font color="#FFFF00">pppppp</font><font
-color="#00FF08">ffffff</font><font color="#007500">F<span style="color: red;">dowd's castle</span></font><font
-color="#00FF08">bbbbb</font><font color="#FFFF00">pppppppppp</font><font color="#00FF08">bbbb</font><font
-color="#FFFF00">ppppddddddhhh</font><font color="#847D84">^^</font><font color="#FFFF00">hh</font><font
-color="#00FF08">b</font><font color="#FFFF00">pp</font><font color="#00FF08">b</font><font
-color="#FFFF00">ppppp</font><font color="#0000FF">r</font><font color="#007500">ggg</font><font
-color="#00FF08">bbbffffffff</font><font color="#007500">FF</font><font color="#00FF08">fffffb</font><font
-color="#007500">gg</font><font color="#00FF08">b</font><font color="#007500">gg</font><font
-color="#0000FF">w</font><font color="#0033FF">wwwww</font><font color="#0033CC">wwwwwwwwwwwwww</font><font
-color="#003399">ww</font><font color="#0033CC">w</font><font color="#003399">wwwwwwwwwwww</font><font
-color="#0033CC">wwwwwwwwwww</font><font color="#0033FF">wwwwwwwwwww</font><font
-color="#0033CC">wwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwww<br></font><font
-color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwww</font><font
-color="#0033CC">wwwwwwwwww</font><font color="#0033FF">wwwwwwwwwww</font><font color="#0000FF">wwwww</font><font
-color="#007500">jj</font><font color="#847D84">^</font><font color="#7B007B">ZZZZZZZZZZZZZZZZZZ</font><font
-color="#0000FF">w</font><a href="https://www.reddit.com/r/zombiemud/wiki/areas/swamps_of_damora"><span
+color="#00FF08">ffffff</font><font color="#007500">F<a href="https://www.reddit.com/r/zombiemud/wiki/areas/dowds_castle"><span
+style="color: red;">dowd's castle</span></a></font><font color="#00FF08">bbbbb</font><font
+color="#FFFF00">pppppppppp</font><font color="#00FF08">bbbb</font><font color="#FFFF00">ppppddddddhhh</font><font
+color="#847D84">^^</font><font color="#FFFF00">hh</font><font color="#00FF08">b</font><font
+color="#FFFF00">pp</font><font color="#00FF08">b</font><font color="#FFFF00">ppppp</font><font
+color="#0000FF">r</font><font color="#007500">ggg</font><font color="#00FF08">bbbffffffff</font><font
+color="#007500">FF</font><font color="#00FF08">fffffb</font><font color="#007500">gg</font><font
+color="#00FF08">b</font><font color="#007500">gg</font><font color="#0000FF">w</font><font
+color="#0033FF">wwwww</font><font color="#0033CC">wwwwwwwwwwwwww</font><font color="#003399">ww</font><font
+color="#0033CC">w</font><font color="#003399">wwwwwwwwwwww</font><font color="#0033CC">wwwwwwwwwww</font><font
+color="#0033FF">wwwwwwwwwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwww</font><font
+color="#003399">wwwwwww<br></font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
+color="#003399">wwwwww</font><font color="#0033CC">wwwwwwwwww</font><font color="#0033FF">wwwwwwwwwww</font><font
+color="#0000FF">wwwww</font><font color="#007500">jj</font><font color="#847D84">^</font><font
+color="#7B007B">ZZZZZZZZZZZZZZZZZZ</font><font color="#0000FF">w</font><a href="https://www.reddit.com/r/zombiemud/wiki/areas/swamps_of_damora"><span
 style="color: red;">damora</span></a><font color="#007500">jj</font><font color="#7B007B">Z</font><font
 color="#007500">jj</font><font color="#0000FF">wwwwww</font><font color="#00FF08">f</font><font
 color="#007500">jjjj</font><font color="#000066">R</font><font color="#007500">jj</font><font
@@ -3893,16 +3894,16 @@ color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwwwwwww
 color="#0033CC">wwwww</font><font color="#0033FF">w</font><font color="#0033CC">wwwwwwwwww</font><font
 color="#0033FF">wwwwwwwwwwwwwwwww</font><font color="#0000FF">w</font><font color="#0033FF">w</font><font
 color="#0000FF">wwwwwwwwwwwwwwwwwwww</font><font color="#007500">gggggggggg</font><font
-color="#0000FF">wwwwwwwwwwwww</font><font color="#007500">ggg</font><font color="#00FF08">ffff<span
-style="color: red;">samurai</span></font><font color="#0000FF">wwww</font><font
-color="#00FF08">bbbbbbbb</font><font color="#FFFF00">hhhhhhh</font><font color="#0000FF">wwwww</font><font
-color="#0033FF">wwww</font><font color="#0000FF">w</font><font color="#0033FF">w</font><font
-color="#0000FF">wwww</font><font color="#007500">g</font><font color="#FFFF00">pppppp</font><font
-color="#00FF08">fff</font><font color="#FFFF00">ppppp</font><font color="#847D84">&amp;&amp;&amp;</font><font
-color="#00FF08">bb</font><font color="#007500">gggggggg</font><font color="#0033FF">wwwwwwwwww</font><font
-color="#0000FF">w</font><font color="#0033FF">wwww</font><font color="#0033CC">ww</font><font
-color="#003399">wwww</font><font color="#0033CC">www</font><font color="#0033FF">wwwwwwwwwwww</font><font
-color="#0000FF">wwwwwwww</font><font color="#FFFF00">pppppppppppppppppppppppp</font><font
+color="#0000FF">wwwwwwwwwwwww</font><font color="#007500">ggg</font><font color="#00FF08">ffff<a
+href="https://www.reddit.com/r/zombiemud/wiki/areas/samurai"><span style="color: red;">samurai</span></a></font><font
+color="#0000FF">wwww</font><font color="#00FF08">bbbbbbbb</font><font color="#FFFF00">hhhhhhh</font><font
+color="#0000FF">wwwww</font><font color="#0033FF">wwww</font><font color="#0000FF">w</font><font
+color="#0033FF">w</font><font color="#0000FF">wwww</font><font color="#007500">g</font><font
+color="#FFFF00">pppppp</font><font color="#00FF08">fff</font><font color="#FFFF00">ppppp</font><font
+color="#847D84">&amp;&amp;&amp;</font><font color="#00FF08">bb</font><font color="#007500">gggggggg</font><font
+color="#0033FF">wwwwwwwwww</font><font color="#0000FF">w</font><font color="#0033FF">wwww</font><font
+color="#0033CC">ww</font><font color="#003399">wwww</font><font color="#0033CC">www</font><font
+color="#0033FF">wwwwwwwwwwww</font><font color="#0000FF">wwwwwwww</font><font color="#FFFF00">pppppppppppppppppppppppp</font><font
 color="#0000FF">r</font><font color="#FFFF00">ppp</font><font color="#0000FF">wwwwww</font><font
 color="#0033FF">wwwwwwwwwwww</font><font color="#0033CC">wwwwwww<br>wwwwwwwwwwwwwwwwww</font><font
 color="#003399">wwww</font><font color="#002299">www</font><font color="#003399">wwwww</font><font
