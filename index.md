@@ -5099,7 +5099,8 @@ color="#847D84">^^</font><font color="#FFFF00">hh</font><font color="#847D84">\<
 color="#FFFF00">h</font><font color="#007500">ggg</font><font color="#FFFF00">h</font><font
 color="#7B8600">H</font><font color="#FFFF00">hh</font><font color="#000066">RR</font><font
 color="#847D84">^^</font><font color="#7B8600">H</font><font color="#847D84">^^^^</font><font
-color="#FFFF00">hhh<span style="color: red;">dream</span></font><font color="#FFFF00">hh</font><font
+color="#FFFF00">hhh<a href="https://www.reddit.com/r/zombiemud/wiki/areas/dream"><span
+style="color: red;">dream</span></a></font><font color="#FFFF00">hh</font><font
 color="#00FF08">ff</font><font color="#847D84">/</font><font color="#007500">gg</font><font
 color="#00FF08">bbbbffffbbbb</font><font color="#000066">R</font><font color="#00FF08">fbb</font><font
 color="#007500">gg</font><font color="#847D84">|</font><font color="#007500">gg</font><font
