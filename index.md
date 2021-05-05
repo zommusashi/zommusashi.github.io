@@ -4349,9 +4349,7 @@ color="#0000FF">wwwwwwww</font><font color="#FFFF00">ppppppddddddddddddddddddddd
 color="#0000FF">w</font><font color="#0033FF">w</font><font color="#0000FF">wwwwwww</font><font
 color="#0033FF">www</font><font color="#0033CC">ww<br>wwwwwwwwwwwwwwwwwww</font><font
 color="#003399">www</font><font color="#002299">wwwwww</font><font color="#003399">wwwww</font><font
-color="#0033CC">wwww</font><font color="#0033FF">ww</font><font color="#0000FF">www</font><font
-color="#FF00FF">z</font><font color="#0000FF">ww</font><font color="#FF00FF">z</font><font
-color="#7B007B">ZZ</font><font color="#7B8600">H</font><font color="#847D84">^</font><font
+color="#0033CC">wwww</font><font color="#0033FF">ww</font><span style="color: red;">mind flayer</span><font
 color="#7B8600">H</font><font color="#FFFF00">hhppp</font><font color="#007500">g</font><font
 color="#00FF08">bfffb</font><font color="#FFFF00">pppppppp</font><font color="#847D84">+</font><font
 color="#FFFF00">hhhhh</font><font color="#7B8600">HH</font><font color="#847D84">^^^^^^^</font><font
@@ -4810,10 +4808,10 @@ color="#0000FF">ww</font><font color="#FF00FF">zz</font><font color="#7B007B">Z<
 color="#00FF08">b</font><font color="#007500">g</font><font color="#00FF08">bffb</font><font
 color="#007500">g</font><font color="#00FF08">b</font><font color="#007500">g</font><font
 color="#00FF08">bbbb</font><font color="#007500">gggggg</font><font color="#FFFF00">hh</font><font
-color="#00FF08">b</font><font color="#847D84">|</font><font color="#FFFF00">hh</font><font
-color="#7B8600">HHH</font><font color="#0000FF">rrr</font><font color="#847D84">^^</font><font
+color="#00FF08">b</font><font color="#847D84">|</font><font color="#FFFF00">h<span
+style="color: red;">trail</span></font><font color="#0000FF">rr</font><font color="#847D84">^^</font><font
 color="#FFFF00">h</font><font color="#660066">vv<a href="https://www.reddit.com/r/zombiemud/wiki/areas/black_mines"><span
-style="color: red;">black mines</span></a></font><font color="#FFFF00">pppp</font><font
+style="color: red;">bha'gras mines</span></a></font><font color="#FFFF00">p</font><font
 color="#007500">g</font><font color="#0000FF">rr</font><font color="#007500">gg</font><font
 color="#000066">lll</font><font color="#FFFF00">ppppp</font><font color="#000066">lllllll</font><font
 color="#007500">gg</font><font color="#FFFF00">pppppp</font><font color="#007500">g</font><font
