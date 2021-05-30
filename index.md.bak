@@ -5763,21 +5763,21 @@ color="#00FF08">f</font><font color="#0000FF">r</font><font color="#007500">jjj<
 color="#0000FF">r</font><font color="#007500">jjj</font><font color="#00FF08">f</font><font
 color="#007500">F</font><font color="#00FF08">ff</font><font color="#007500">F</font><font
 color="#00FF08">ffff</font><font color="#0000FF">r</font><font color="#00FF08">f</font><font
-color="#007500">j</font><font color="#0000FF">r</font><span style="color: red;">temple</span><font
-color="#00FF08">fffffff</font><font color="#0000FF">wwwwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwww</font><font
-color="#0033CC">wwwwwwww</font><font color="#0033FF">wwww</font><font color="#0033CC">wwwwwwwwww</font><font
-color="#003399">wwwwwwwwwwwwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
-color="#003399">wwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwww</font><font
-color="#003399">wwwwwww</font><font color="#0033CC">wwww</font><font color="#003399">wwww</font><font
-color="#0033CC">wwwwwwww</font><font color="#003399">wwwww</font><font color="#002299">ww</font><font
-color="#003399">wwwwwwwwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwww</font><font
-color="#003399">wwwwwwwwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwww</font><font
-color="#0033FF">w</font><font color="#0033CC">wwwwwwwww</font><font color="#0033FF">w</font><font
-color="#0033CC">ww</font><font color="#0033FF">www</font><font color="#0033CC">wwwwwwwww</font><font
-color="#002299">wwwwwwwwwwwwwww</font><font color="#0033FF">wwwww</font><font color="#002299">wwwwwww</font><font
-color="#0033CC">www</font><font color="#0033FF">wwwwwww</font><font color="#0033CC">w</font><font
-color="#003399">ww</font><font color="#0033CC">wwwwwwwwwwwwwwwww</font><font color="#003399">www</font><font
-color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
+color="#007500">j</font><font color="#0000FF">r</font><a href="https://www.reddit.com/r/zombiemud/wiki/areas/temple_of_teros"><span
+style="color: red;">temple</span></a><font color="#00FF08">fffffff</font><font color="#0000FF">wwwwwwwwww</font><font
+color="#0033FF">wwwwwwwwwwwwwwwwwwww</font><font color="#0033CC">wwwwwwww</font><font
+color="#0033FF">wwww</font><font color="#0033CC">wwwwwwwwww</font><font color="#003399">wwwwwwwwwwwwww</font><font
+color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwww</font><font
+color="#0033CC">wwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwww</font><font
+color="#0033CC">wwww</font><font color="#003399">wwww</font><font color="#0033CC">wwwwwwww</font><font
+color="#003399">wwwww</font><font color="#002299">ww</font><font color="#003399">wwwwwwwwww</font><font
+color="#0033CC">wwwwwwwwwwwwwwwwwwwwwww</font><font color="#003399">wwwwwwwwww</font><font
+color="#0033CC">wwwwwwwwwwwwwwwwwwww</font><font color="#0033FF">w</font><font color="#0033CC">wwwwwwwww</font><font
+color="#0033FF">w</font><font color="#0033CC">ww</font><font color="#0033FF">www</font><font
+color="#0033CC">wwwwwwwww</font><font color="#002299">wwwwwwwwwwwwwww</font><font
+color="#0033FF">wwwww</font><font color="#002299">wwwwwww</font><font color="#0033CC">www</font><font
+color="#0033FF">wwwwwww</font><font color="#0033CC">w</font><font color="#003399">ww</font><font
+color="#0033CC">wwwwwwwwwwwwwwwww</font><font color="#003399">www</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#003399">wwwwwww<br></font><font color="#0033CC">wwwwwwwwwwwww</font><font
 color="#003399">wwwwwwwwwwwwwwwwwwww</font><font color="#0033CC">wwwwwwwwwwwwwww</font><font
 color="#0033FF">wwwwww</font><font color="#0000FF">wwwwwwwwwwwwwwwwwwwwwwwwww</font><font
