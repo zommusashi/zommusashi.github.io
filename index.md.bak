@@ -4527,11 +4527,12 @@ color="#FFFF00">hhh</font><font color="#847D84">|</font><font color="#FFFF00">hh
 color="#7B8600">HHH</font><font color="#847D84">^</font><font color="#7B8600">HHHHH</font><font
 color="#847D84">^^^</font><font color="#000066">llll</font><font color="#847D84">^^</font><font
 color="#7B8600">HHHH</font><font color="#FFFF00">hhhhpppppp</font><font color="#007500">ggg</font><font
-color="#000066">lllllllll</font><font color="#00FF08">f<span style="color: red;">prison</span></font><font
-color="#000066">llllll</font><font color="#FFFF00">pppp</font><font color="#007500">gg</font><font
-color="#00FF08">bb</font><font color="#007500">g</font><font color="#00FF08">bb</font><font
-color="#847D84">\</font><font color="#00FF08">bbb</font><font color="#007500">g</font><font
-color="#00FF08">bbbffff</font><font color="#007500">g</font><a href="https://www.reddit.com/r/zombiemud/wiki/areas/gnome_outpost"><span
+color="#000066">lllllllll</font><font color="#00FF08">f<a href="https://www.reddit.com/r/zombiemud/wiki/areas/cantador_prison"><span
+style="color: red;">prison</span></a></font><font color="#000066">llllll</font><font
+color="#FFFF00">pppp</font><font color="#007500">gg</font><font color="#00FF08">bb</font><font
+color="#007500">g</font><font color="#00FF08">bb</font><font color="#847D84">\</font><font
+color="#00FF08">bbb</font><font color="#007500">g</font><font color="#00FF08">bbbffff</font><font
+color="#007500">g</font><a href="https://www.reddit.com/r/zombiemud/wiki/areas/gnome_outpost"><span
 style="color: red;">gnome outpost</span></a><font color="#0000FF">wwwww</font><font
 color="#0033FF">wwwwww</font><font color="#0033CC">wwwwwwwwwwwwwwwwwwwwwww</font><font
 color="#003399">w</font><font color="#0033CC">wwwwwwwwwwww</font><font color="#0033FF">wwww</font><font
