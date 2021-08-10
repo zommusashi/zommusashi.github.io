@@ -828,23 +828,23 @@ color="#0000FF">wwww</font><font color="#FFFF00">pppp</font><font color="#00FF08
 color="#0000FF">r</font><font color="#00FF08">bb</font><font color="#FFFF00">d</font><font
 color="#00FF08">bbbf</font><font color="#847D84">|</font><font color="#00FF08">ffffff</font><font
 color="#FFFF00">h</font><font color="#7B8600">HHH</font><font color="#FFFF00">h</font><font
-color="#847D84">^^</font><font color="#FFFF00"><span style="color: #990000;">?</span>pppppppp<span
-style="color: red;">farm</span></font><font color="#00FF08">b</font><font color="#FFFF00">pp</font><font
-color="#00FF08">bbb</font><font color="#847D84">|</font><font color="#00FF08">bbbbff</font><font
-color="#847D84">|</font><font color="#00FF08">ff</font><font color="#007500">F</font><font
-color="#00FF08">ff</font><font color="#0000FF">r</font><font color="#00FF08">ffffff</font><font
-color="#0000FF">wwwwww</font><font color="#0033FF">wwwwww</font><font color="#0033CC">wwwwwwwww</font><font
-color="#003399">wwwwwwww</font><font color="#002299">ww</font><font color="#003399">ww</font><font
-color="#0033CC">wwwwwwww</font><font color="#003399">wwwwwwwww</font><font color="#0033CC">wwwwwwwwww</font><font
-color="#0033FF">wwwwwwww</font><font color="#0033CC">wwwwwww</font><font color="#003399">ww</font><font
-color="#002299">wwwwww</font><font color="#003399">www</font><font color="#0033CC">wwwwwww</font><font
-color="#0033FF">wwwwwwwwwwwwwwww</font><font color="#0033CC">wwwwwwwwww</font><font
-color="#0033FF">wwwwwwwwwwwwwwwwwwwwww</font><font color="#0033CC">wwwwwwwww</font><font
-color="#0033FF">wwwwwwwwwwwwwwwwwwww</font><font color="#0000FF">www</font><font
-color="#007500">gg</font><font color="#0000FF">wwww</font><font color="#0033FF">wwwwwwwwwwwwwwwww</font><font
-color="#0033CC">w</font><font color="#0033FF">www</font><font color="#0033CC">ww</font><font
-color="#0033FF">w</font><font color="#0033CC">w</font><font color="#0033FF">wwwwwwwwwwwwwwwwwww</font><font
-color="#0000FF">w</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwww</font><font
+color="#847D84">^^</font><font color="#FFFF00"><span style="color: #990000;">?</span>pppppppp<a
+href="https://www.reddit.com/r/zombiemud/wiki/areas/denulfsfarm"><span style="color: red;">farm</span></a></font><font
+color="#00FF08">b</font><font color="#FFFF00">pp</font><font color="#00FF08">bbb</font><font
+color="#847D84">|</font><font color="#00FF08">bbbbff</font><font color="#847D84">|</font><font
+color="#00FF08">ff</font><font color="#007500">F</font><font color="#00FF08">ff</font><font
+color="#0000FF">r</font><font color="#00FF08">ffffff</font><font color="#0000FF">wwwwww</font><font
+color="#0033FF">wwwwww</font><font color="#0033CC">wwwwwwwww</font><font color="#003399">wwwwwwww</font><font
+color="#002299">ww</font><font color="#003399">ww</font><font color="#0033CC">wwwwwwww</font><font
+color="#003399">wwwwwwwww</font><font color="#0033CC">wwwwwwwwww</font><font color="#0033FF">wwwwwwww</font><font
+color="#0033CC">wwwwwww</font><font color="#003399">ww</font><font color="#002299">wwwwww</font><font
+color="#003399">www</font><font color="#0033CC">wwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwww</font><font
+color="#0033CC">wwwwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwww</font><font
+color="#0033CC">wwwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwww</font><font
+color="#0000FF">www</font><font color="#007500">gg</font><font color="#0000FF">wwww</font><font
+color="#0033FF">wwwwwwwwwwwwwwwww</font><font color="#0033CC">w</font><font color="#0033FF">www</font><font
+color="#0033CC">ww</font><font color="#0033FF">w</font><font color="#0033CC">w</font><font
+color="#0033FF">wwwwwwwwwwwwwwwwwww</font><font color="#0000FF">w</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwww</font><font
 color="#0000FF">w</font><font color="#0033FF">w</font><font color="#0000FF">w</font><font
 color="#0033FF">wwwww</font><font color="#0000FF">wwwwwwwwwwwww</font><font color="#007500">g</font><font
 color="#0000FF">wwwwwwww</font><font color="#0033FF">wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww</font><font
