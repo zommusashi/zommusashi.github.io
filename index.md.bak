@@ -2344,7 +2344,7 @@ color="#003399">ww</font><font color="#0033CC">wwwwwwwwwwwww</font><font color="
 color="#0033CC">wwwwwwwwwwwww</font><font color="#0033FF">www</font><font color="#0033CC">ww</font><font
 color="#0033FF">wwwwwwww</font><font color="#0000FF">ww</font><font color="#007500">gggggggggggg<a
 href="https://www.reddit.com/r/zombiemud/wiki/areas/eliendien"><span style="color: red;">eliendien</span></a></font><font
-color="#003399">ww</font><font color="#002299">wwwww</font><font color="#001199">ww</font><font
+color="#003399"> ww</font><font color="#002299">wwwww</font><font color="#001199">ww</font><font
 color="#002299">www</font><font color="#001199">ww</font><font color="#002299">wwwwwww</font><font
 color="#003399">www</font><font color="#0033CC">ww</font><font color="#0033FF">wwww</font><font
 color="#0000FF">ww</font><font color="#007500">ggggg</font><font color="#0000FF">ww</font><font
